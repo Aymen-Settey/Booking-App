@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036649471282",
+    "project_id": "authfire-f7b09",
+    "storage_bucket": "authfire-f7b09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036649471282:android:c33bad453416c7087c8b2b",
+        "android_client_info": {
+          "package_name": "com.settey.authfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036649471282-t3j4grnmu10d59sgllnr1r301c84nh40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn6bv1go3okXU4Dtfrf9M7jK7yHmFn5T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036649471282-t3j4grnmu10d59sgllnr1r301c84nh40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
